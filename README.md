@@ -1,4 +1,8 @@
-# MicroCosm
+<p align="center">
+  <img src="docs/images/microcosm.png" alt="μCosm logo" width="256" />
+</p>
+
+# μCosm
 
 This is a universe for small and lean software.
 
