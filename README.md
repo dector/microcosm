@@ -12,3 +12,5 @@ Native GUI is even better if you can do it.
 This is NOT a movement, this is NOT a manifesto. This is just humble person approach.
 No strings attached.
 
+- [`serv`](https://github.com/dector/serv) - expose files via HTTP server.
+
